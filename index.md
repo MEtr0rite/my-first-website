@@ -1,7 +1,7 @@
 <p>
 	<div>
 		<iframe 
-			src="/test-pj/index.html">
+			src="test-pj/index.html">
 		</iframe>
 	</div>
 </p>
