@@ -3,15 +3,15 @@
   <head>
     <meta charset="utf-8">
     <title>My test page</title>
-    <link href="styles/style.css" rel="stylesheet">
+    <link href="test-pj/styles/style.css" rel="stylesheet">
     <!-- rel代表什么？ -->
   </head>
 
   <body>
     <h1>my wife</h1>
-    <img src="images/-klbw3Qrciq-y9nZaT3cSlc-sg.jpg" alt="My wife">
+    <img src="test-pj/images/-klbw3Qrciq-y9nZaT3cSlc-sg.jpg" alt="My wife">
     <button>切换用户</button>
-    <script src="scripts/main.js" defer></script>
+    <script src="test-pj/scripts/main.js" defer></script>
     <!--  -->
   </body>
   
