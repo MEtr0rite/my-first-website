@@ -1,6 +1,7 @@
 <p>
 	<div>
-		<iframe allowtransparency="yes" frameborder="0" src="/test-pj/index.html">
+		<iframe 
+			src="/test-pj/index.html">
 		</iframe>
 	</div>
 </p>
